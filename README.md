@@ -1,1 +1,9 @@
-# .github
+# Grinnix — Plataforma de Prática e Aprendizado em Programação
+
+O Grinnix é uma plataforma de prática de programação inspirada em sistemas como o LeetCode, desenvolvida para ajudar estudantes e desenvolvedores a aprimorar suas habilidades de resolução de problemas por meio de desafios de código. O projeto busca reunir, em um único ambiente, exercícios de programação, submissões de soluções e acompanhamento do desempenho, oferecendo uma experiência estruturada de aprendizado e evolução técnica.
+
+O principal problema que buscamos resolver é a dificuldade de encontrar um ambiente organizado para praticar algoritmos, estruturas de dados e lógica de programação, acompanhar o próprio progresso e avaliar a qualidade das soluções desenvolvidas. Sem uma plataforma centralizada, o estudo tende a ficar disperso entre diferentes fontes de exercícios, ferramentas de execução e registros manuais de desempenho.
+
+Para resolver esse cenário, o Grinnix propõe uma plataforma na qual os usuários podem explorar desafios de programação, desenvolver e submeter soluções, verificar os resultados de execução e acompanhar sua evolução. A experiência é orientada à prática contínua, permitindo que cada problema funcione como uma oportunidade de exercitar conceitos fundamentais, desenvolver raciocínio algorítmico e aprimorar técnicas de implementação.
+
+O Grinnix tem como objetivo oferecer uma base para o aprendizado prático de programação, aproximando a experiência de resolução de desafios de uma rotina de estudo consistente. A plataforma pode evoluir com recursos como categorização por dificuldade e assunto, histórico de submissões, métricas de desempenho e mecanismos automatizados de avaliação, contribuindo para que estudantes e desenvolvedores identifiquem seus pontos fortes e áreas que precisam desenvolver.
